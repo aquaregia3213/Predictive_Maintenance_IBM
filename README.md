@@ -147,10 +147,10 @@ Heat Dissip.   → Type=M, Air=300.8, Process=309.4, RPM=1342, Torque=62.4, Wear
 | Field | Details |
 |---|---|
 | **Program** | AICTE IBM SkillsBuild Summer Internship Program 2026 |
-| **Duration** | June 21 – July 31, 2026 (120 hours) |
+| **Duration** | June 12– July 10, 2026 |
 | **Student** | Atharva Jadhav |
 | **Institution** | MIT Academy of Engineering (MIT AOE), Pune |
-| **Branch** | B.Tech Computer Science (First Year) |
+| **Branch** | B.Tech Computer Science |
 | **Problem Statement** | PS 39 — Predictive Maintenance of Industrial Machinery |
 
 ---
